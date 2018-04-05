@@ -12209,6 +12209,9 @@
     <!-- Summary for see all preference when bluetooth is disable [CHAR LIMIT=none]-->
     <string name="connected_device_see_all_summary">Bluetooth will turn on</string>
 
+    <!-- Title for connected TWS device group [CHAR LIMIT=none]-->
+    <string name="connected_tws_device_saved_title">Saved Earbuds</string>
+
     <!-- Summary for preference when Bedtime mode is on [CHAR LIMIT=NONE] -->
     <string name="aware_summary_when_bedtime_on">Unavailable because bedtime mode is on</string>
 
